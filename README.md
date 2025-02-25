@@ -1,9 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=E7D0F9&height=200&section=header&text=wellcom<br/>Hyejit&fontSize=24" />
 
-
-
-
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jineeds)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -25,20 +22,4 @@
 <a href="링크"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-
-
-<!--
-**jineeds/jineeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
