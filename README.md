@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=E7D0F9&height=150&section=header&text="Wellcom, Hyejit" &fontSize=24" />
+
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=E7D0F9&height=200&section=header&text=wellcom&fontSize=24" />
 
 
 
